@@ -5,4 +5,8 @@
     <RootNamespace>steamcondenser_dotnet</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Crc32.NET" Version="1.2.0" />
+  </ItemGroup>
+
 </Project>
